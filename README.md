@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahar
-- 👀 I’m interested in cybersecutiy and coding
+- 👀 I’m interested in cybersecurity and coding
 - 🌱 I’m currently learning python 
 - ⚡ Fun fact: I love reading novels so much that sometimes I can't sleep without finishing it.
 
